@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face{
+	font-family:"fitnessplus";
+	src: url("fonts/Tanha.woff") format("woff");
+}
+
+body{
+	font-family: "fitnessplus","Tahoma";
+}
+
+input,textarea,button,select,ul,a,li,p,font,table,textarea{
+	font-family:"fitnessplus";
+}
